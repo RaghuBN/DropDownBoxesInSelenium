@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="19300" started-at="2019-08-26T12:21:32Z" finished-at="2019-08-26T12:21:51Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="19300" started-at="2019-08-26T12:21:32Z" finished-at="2019-08-26T12:21:51Z">
+      <class name="DropDownBoxes.TestCase2">
+        <test-method status="PASS" signature="Test()[pri:0, instance:DropDownBoxes.TestCase2@548b7f67]" name="Test" duration-ms="19281" started-at="2019-08-26T17:51:32Z" finished-at="2019-08-26T17:51:51Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Test -->
+      </class> <!-- DropDownBoxes.TestCase2 -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
